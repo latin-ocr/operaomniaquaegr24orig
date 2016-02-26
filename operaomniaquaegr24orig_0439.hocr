@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaquaegr24orig/operaomniaquaegr24orig_0439.png"; bbox 0 0 1422 2472; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 108 288 1398 2254">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 108 288 1398 2254">
+     <span class='ocr_line' id='line_1_1' title="bbox 108 288 1398 2254; baseline 0 -1641"><span class='ocrx_word' id='word_1_1' title='bbox 108 299 1398 2254; x_wconf 95' lang='lat' dir='ltr'><strong>   </strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1026 288 1398 613; x_wconf 95' lang='lat' dir='ltr'><strong>   </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 575 349 1298 567">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 575 349 1298 567">
+     <span class='ocr_line' id='line_1_2' title="bbox 575 349 1298 449; baseline -0.026 -10"><span class='ocrx_word' id='word_1_3' title='bbox 575 354 913 449; x_wconf 60' lang='lat' dir='ltr'>universim</span> <span class='ocrx_word' id='word_1_4' title='bbox 947 351 1006 432; x_wconf 77' lang='lat' dir='ltr'><strong>o}</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1040 349 1298 429; x_wconf 70' lang='lat' dir='ltr'><strong>Toranio</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 590 474 1210 567; baseline -0.023 -8"><span class='ocrx_word' id='word_1_6' title='bbox 590 514 599 522; x_wconf 87' lang='lat'>·</span> <span class='ocrx_word' id='word_1_7' title='bbox 820 474 1064 567; x_wconf 73' lang='lat' dir='ltr'><strong>[ihrary</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1207 497 1210 498; x_wconf 41' lang='lat'><em>⁷</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
